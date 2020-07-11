@@ -14,9 +14,7 @@ Dataset Link:- <a href="https://www.kaggle.com/atulyakumar98/pothole-detection-d
 ## NOTE:
 This project is subject to change by the developer and is still in development
 <br>
-<br>
-<br>
-<br>
+
 ## To test this out
 Testing this is as simple as it gets. Follow this steps:
 1. Clone this project.
