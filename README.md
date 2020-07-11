@@ -5,7 +5,7 @@ A deep learning model is build to detect malaria of the patients with the cell i
 <br>
 
 # Dataset:
-Dataset Link:- <a href="https://www.kaggle.com/atulyakumar98/pothole-detection-dataset</a>
+Dataset Link:- <a href="https://www.kaggle.com/atulyakumar98/pothole-detection-dataset"</a>
 <br>
 
 ### 👉 If you like this repo then please give it a ⭐️
