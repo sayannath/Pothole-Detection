@@ -1,11 +1,9 @@
 # Pothole-Detection
 
 ## Short Description
-A deep learning model is build to detect malaria of the patients with the cell images of the patients.
-<br>
-
+A deep learning model to detect potholes.
 # Dataset:
-Dataset Link:- <a href="https://www.kaggle.com/atulyakumar98/pothole-detection-dataset"</a>
+Dataset Link:- "https://www.kaggle.com/atulyakumar98/pothole-detection-dataset"
 <br>
 
 ### 👉 If you like this repo then please give it a ⭐️
@@ -66,6 +64,6 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 [📷 Insta](https://www.instagram.com/sayannath235/)<br>
 [🐤 Twitter](https://twitter.com/SayanNa20204009)<br>
 [🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
-<br>
-<br>
+
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
