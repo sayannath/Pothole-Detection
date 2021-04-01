@@ -58,11 +58,11 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 
 
 ## Developed & Maintained by
-<br>
-[👨 Sayan Nath](https://sayan-nath.web.app/)<br>
-[📷 Insta](https://www.instagram.com/sayannath235/)<br>
-[🐤 Twitter](https://twitter.com/SayanNa20204009)<br>
-[🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)<br>
+
+[👨 Sayan Nath](https://sayannath.biz) <br>
+[📷 Insta](https://www.instagram.com/sayannath235) <br>
+[🐤 Twitter](https://twitter.com/SayanNa20204009) <br>
+[🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182) <br>
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
